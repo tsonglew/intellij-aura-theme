@@ -1,11 +1,11 @@
 {
-  "name": "Intellij-aura-theme",
-  "author": "YourCompany",
+  "name": "aura-theme",
+  "author": "Tsonglew",
   "dark": true,
+  "editorScheme": "/theme/aura-dark-color-theme.icls",
   "colors": {
-    "primaryRed": "#821010"
+    "primaryRed": "#000000"
   },
   "ui": {
-    "Button.background": "primaryRed"
   }
 }
